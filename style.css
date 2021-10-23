@@ -1,0 +1,17 @@
+body {
+    background-color: #222;
+    color: #eee;
+}
+
+header {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+footer {
+  float: right;
+}
+
+#display {
+    text-transform: uppercase;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
